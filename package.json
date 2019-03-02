@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lucaaspw/makes/issues"
   },
-  "homepage": "https://github.com/lucaaspw/makes#readme"
+  "homepage": "https://github.com/lucaaspw/makes#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
